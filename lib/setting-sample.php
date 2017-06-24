@@ -75,6 +75,7 @@ $goods=[
 	10=>20
 ];
 //依次为上面三种充值卡的购买链接
+//推荐使用jiasale自动发货
 $order_href=[
 	"http://www.jiasale.com",
 	"http://www.jiasale.com",

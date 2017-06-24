@@ -23,7 +23,7 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            &copy; <?php echo $site_name."  ".date('Y'); ?>  Powered by <a class="orange-text text-lighten-3" href="https://github.com/orvice/ss-panel">ss-panel</a> <?php echo $version; ?>
+            &copy; <?php echo $site_name."  ".date('Y'); ?>  Powered by <a class="orange-text text-lighten-3" href="https://github.com/hzshang/ss-panel">ss-panel</a> <?php echo $version; ?>
             Processed in <?php
             $Runtime->Stop();
             echo $Runtime->SpendTime()."ms";
