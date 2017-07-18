@@ -1,7 +1,6 @@
 ss-panel
 ========
 Forked from [orvice](https://github.com/orvice/ss-panel/tree/v2)  
-Site example [https://pro.ssfly.club](https://pro.ssfly.club)
 
 ## Changed features
 - Use the mailbox validation instead of the invitation code
